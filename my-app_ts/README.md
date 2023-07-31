@@ -1,7 +1,7 @@
 # React Responsive Navbar Tutorial
 
-### Описание курса:
-Данный проект сделан по видеокурсу "React Responsive Navbar Tutorial - Beginner React JS Project".
+### РћРїРёСЃР°РЅРёРµ РєСѓСЂСЃР°:
+Р”Р°РЅРЅС‹Р№ РїСЂРѕРµРєС‚ СЃРґРµР»Р°РЅ РїРѕ РІРёРґРµРѕРєСѓСЂСЃСѓ "React Responsive Navbar Tutorial - Beginner React JS Project".
 
 ---
 [youtube]: https://youtu.be/23BHwAFIZmk
